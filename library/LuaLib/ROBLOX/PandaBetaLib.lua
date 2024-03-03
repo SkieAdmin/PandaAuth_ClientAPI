@@ -20,7 +20,7 @@ local _tostring = clonefunction(tostring)
 local server_configuration = "https://pandadevelopment.cloud"
 
 -- Lua Lib Version
-local LibVersion = "v2.1.6_Release"
+local LibVersion = "v2.1.7_Release"
 -- warn("Panda-Pelican Libraries Loaded ( "..LibVersion.." )")
 -- Validation Services
 local validation_service = server_configuration.. "/failsafeValidation"
